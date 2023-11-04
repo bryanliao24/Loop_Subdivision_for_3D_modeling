@@ -19,4 +19,7 @@ Due to the increase in triangle subdivision, enhanced smoothness and realism in 
 The project emphasizes the practical application of computational geometry and iterative algorithms in creating visually realistic 3D models, 
 demonstrating a deep understanding of mesh manipulation and subdivision techniques.
 
+<p align="center">
+  <img src="https://github.com/bryanliao24/Loop-Subdivision-for-3D-modeling/blob/main/img/2.PNG" alt="Result">
+</p>
 
