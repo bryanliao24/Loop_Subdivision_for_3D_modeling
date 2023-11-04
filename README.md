@@ -1,7 +1,11 @@
 # Loop-Subdivision-for-3D-modeling
 
 Triangle Mesh 3D Modeling with Halfedge Data Structures
-![image](https://github.com/bryanliao24/Loop-Subdivision-for-3D-modeling/blob/main/img/1.PNG)
+
+<p align="center">
+  <img src="https://github.com/bryanliao24/Loop-Subdivision-for-3D-modeling/blob/main/img/1.PNG" alt="Example">
+</p>
+
             
 A project centered on 3D modeling using the halfedge data structure was developed. 
 A cyclic subdivision algorithm is implemented using MeshLab to enhance the surface smoothness and realism of 3D planes through an iterative process.
