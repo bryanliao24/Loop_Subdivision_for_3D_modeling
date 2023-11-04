@@ -7,9 +7,9 @@ Triangle Mesh 3D Modeling with Halfedge Data Structures
 </p>
 
             
-A project centered on 3D modeling using the halfedge data structure was developed. 
-A cyclic subdivision algorithm is implemented using MeshLab to enhance the surface smoothness and realism of 3D planes through an iterative process.
-As the number of iterations increases, the triangles are further subdivided, resulting in a progressively smoother and more realistic 3D representation.
+- A project centered on 3D modeling using the halfedge data structure was developed. 
+- A cyclic subdivision algorithm is implemented refered to MeshLab to enhance the surface smoothness and realism of 3D planes through an iterative process.
+- As the number of iterations increases, the triangles are further subdivided, resulting in a progressively smoother and more realistic 3D representation.
 
 
 
