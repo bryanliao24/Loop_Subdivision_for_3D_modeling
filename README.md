@@ -1,4 +1,4 @@
-# Loop-Subdivision-for-3D-modeling
+# Loop_Subdivision_for_3D_modeling
 
 Triangle Mesh 3D Modeling with Halfedge Data Structures
 
